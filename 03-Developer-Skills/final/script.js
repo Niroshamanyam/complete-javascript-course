@@ -1,6 +1,6 @@
 // Remember, we're gonna use strict mode in all scripts now!
 'use strict';
-
+/* this is test
 /*
 ///////////////////////////////////////
 // Using Google, StackOverflow and MDN
